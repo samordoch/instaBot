@@ -1,0 +1,8 @@
+This program created by sam mordoch for study and research useage 
+use on your own risk of getting banned from IG
+inside instaBot.py change username and password to your own login details
+and PATH to your own chromedriver path
+you will need to install selenium python and chrome driver
+downloads
+https://chromedriver.chromium.org/
+use pip install selenium on cmd
